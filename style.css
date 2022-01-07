@@ -1,0 +1,9 @@
+html,
+body {
+    height: 100%;
+}
+
+google-cast-launcher {
+    size: 20%;
+    margin: auto;
+}
